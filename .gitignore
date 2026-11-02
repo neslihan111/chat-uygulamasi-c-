@@ -1,0 +1,16 @@
+## Visual Studio / .NET build çıktıları
+bin/
+obj/
+.vs/
+TestResults/
+
+## Kullanıcıya özel Visual Studio ayarları
+*.user
+*.suo
+*.userprefs
+*.rsuser
+
+## NuGet ve geçici dosyalar
+packages/
+*.binlog
+*.log
